@@ -29,7 +29,7 @@ chmod 777 -R .
 ./install.sh
 ```
 
-3. Once you are done setting up 'rclone' run now we will update sync paths on config.py
+3. Once you are done setting up 'rclone', we will update sync paths on config.py
 
 4. python3 update_config.py "pathA" "pathB"
 
