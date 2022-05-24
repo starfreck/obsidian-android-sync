@@ -14,7 +14,7 @@
 ```shell
 pkg update
 
-pkg upgradw
+pkg upgrade
 
 pkg install git
 
