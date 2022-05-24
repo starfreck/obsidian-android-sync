@@ -1,4 +1,4 @@
-# obsidian android sync
+# [obsidian](https://obsidian.md) android sync
 
 ## Note
 - To be more secure please try to use your own Google Drive API keys
