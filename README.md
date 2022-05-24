@@ -40,7 +40,7 @@ chmod 777 -R .
 
 python3 ~/update_config.py "gdrive:Obsidian" "/storage/emulated/0/Documents/Obsidian"
 
-# if you messed up just use "syncrclone --new config.py" to create new config.py
+# if you mess up then just use "syncrclone --new config.py" to create new config.py
 ```
 
 5. Go to 'Widget' and add new Widget "Sync.sh. See the example [here](https://wiki.termux.com/wiki/Termux:Widget). After that click on new shortcut and your sync will start automatically.
